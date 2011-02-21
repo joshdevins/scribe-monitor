@@ -12,5 +12,5 @@ A very simple check script for nrpe that relies on the scribe_ctrl Python script
 
 ## Ganglia
 
-The Ganglia Python module for Scribe can now be found in (https://github.com/joshdevins/gmond_python_modules/tree/master/scribe)[the official repository].
+The Ganglia gmond Python module for Scribe can now be found in [the official Ganglia gmond Python module repository](https://github.com/joshdevins/gmond_python_modules/tree/master/scribe).
 
